@@ -23,11 +23,4 @@ public class GreetingController {
 //        
 //    }
     
-    
-//    
-//    @RequestMapping("/numero")
-//    public Greeting numero(@RequestParam(value="max", defaultValue="60") String nameNum) {
-//        return (int) (Math.random()* Integer.parseInt((nameNum) + 1);
-//        
-//    }
 }
